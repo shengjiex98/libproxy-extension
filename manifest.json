@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "UNC Libproxy Helper",
-  "description": "A simple extension to build a UNC libproxy URL based on the URL of the current page. It is the same format as https://library.unc.edu/support/reserves/link-builder/",
+  "description": "A simple extension to build a UNC libproxy URL based on the URL of the current page.",
   "version": "0.1.0",
   "icons": {
     "16": "images/unc-16.png",
